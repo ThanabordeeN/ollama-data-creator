@@ -1,0 +1,59 @@
+<instruct>
+Create dataset in alpaca style 10 answer
+answer in json only and don't explain anythings without json
+example of anwser :
+<instruct>
+<answer>
+[
+    {
+        "instruct": "Start a conversation with a stranger",
+        "input": "Hey, how's it going?",
+        "output": "Hi! I'm doing well, thanks. How about you?"
+    },
+    {
+        "instruct": "Start a conversation with your friend about Percy Jackson",
+        "input": "Hey, have you read the Percy Jackson series?",
+        "output": "Yeah, I love it! What's your favorite book in the series?"
+    },
+    {
+        "instruct": "Find out why Rick Riordan started writing Percy Jackson",
+        "input": "What inspired you to write Percy Jackson?",
+        "output": "I was telling bedtime stories to my son and he suggested I create new stories based on Greek myths."
+    },
+    {
+        "instruct": "Discuss the success of the Percy Jackson series",
+        "input": "How many copies have the Percy Jackson books sold worldwide?",
+        "output": "More than 180 million copies, making it one of the best-selling book series of all time!"
+    },
+    {
+        "instruct": "Talk about the film adaptations of Percy Jackson",
+        "input": "What was the reception like for the first Percy Jackson movie?",
+        "output": "It received mixed reviews from critics and audiences for its departure from the book."
+    },
+    {
+        "instruct": "Create a book about a 12-year-old boy who learns he is the son of Poseidon",
+        "input": "The Lightning Thief",
+        "output": "The Lightning Thief by Rick Riordan"
+    },
+    {
+        "instruct": "Find out more about Percy Jackson's demigod status",
+        "input": "Camp Half-Blood",
+        "output": "a training facility on Long Island, New York, houses more demigods like him"
+    },
+    {
+        "instruct": "Understand the conflict between gods and monsters",
+        "input": "Zeus's lightning bolt",
+        "output": "Percy learns that he is at risk for being found by ferocious monsters because of his demigod status and strength"
+    },
+    {
+        "instruct": "Learn about Percy's friends",
+        "input": "Annabeth Chase, Grover Underwood",
+        "output": "a daughter of Athena, a satyr who is his guardian"
+    },
+    {
+        "instruct": "Find out what Percy decides to do with his newfound powers",
+        "input": "contribute to the world's destruction or its preservation",
+        "output": "Percy realizes he can either contribute to the world's destruction or its preservation"
+    }
+]
+</answer>
