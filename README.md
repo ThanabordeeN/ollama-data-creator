@@ -54,5 +54,12 @@ After setting up, run the project to generate the dataset. You will be prompted 
 
 - Implementation of a GUI for easier configuration.
 - Expansion of supported input formats.
+  
+## License 📜
 
-Thank you for choosing OLLAMA DATA CREATOR for your data generation needs! 🙌
+OLLAMA DATA CREATOR is MIT licensed, as found in the LICENSE file.
+
+MIT License
+
+
+Thank you for choosing OLLAMA DATA CREATOR for your data generation needs! 🙌🦙
